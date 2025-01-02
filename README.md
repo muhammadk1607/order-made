@@ -3,6 +3,13 @@
 Order Made is a white label order management platform where companies access their orders table
 by going to appropriate subdomains.
 
+## Implemented Functionality
+
+1. Dynamic Subdomains
+2. Onboarding New Companies
+3. UI
+4. Functionality (Sorting and Pagination Both)
+
 ## Onboarding New Companies
 
 To onboard a new company, simply add it's logo with a proper name in `public` directory.
